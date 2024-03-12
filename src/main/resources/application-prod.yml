@@ -1,0 +1,2 @@
+spring:
+  massage: "Welcome to the prod environment"
